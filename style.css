@@ -6,12 +6,8 @@ header {
 }
 
 header img {
-    float: left;
-    width: 100px;
     
-    display: flex;
-    background-position: left;
-    background-size: cover;
+   
 
 }
 
@@ -20,7 +16,7 @@ header img {
     justify-content: space-around;
     align-items: center;
     padding: 50px;
-    width: 50%;
+    width: 100%;
 }
 
 main section {
