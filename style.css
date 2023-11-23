@@ -1,0 +1,23 @@
+header {
+    background-color: aliceblue;
+    display: flex;
+    align-items: flex-start;
+    height: 400px;
+}
+
+header img {
+    float: left;
+    width: 100px;
+    display: flex;
+    background-position: left;
+    background-size: cover;
+
+}
+
+.Customer__Information__1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+    width: 50%;
+}
