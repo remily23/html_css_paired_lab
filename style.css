@@ -2,12 +2,13 @@ header {
     background-color: aliceblue;
     display: flex;
     align-items: flex-start;
-    height: 400px;
+    height: 250x;
 }
 
 header img {
     float: left;
     width: 100px;
+    
     display: flex;
     background-position: left;
     background-size: cover;
@@ -20,4 +21,16 @@ header img {
     align-items: center;
     padding: 50px;
     width: 50%;
+}
+
+main section {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  border-style: solid;
+  background-color: aliceblue;
+  border-color: rgb(169, 169, 209);
+ 
+ 
+ 
 }
